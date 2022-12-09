@@ -6,6 +6,7 @@ public class ShowDateTime {
 	public static void main(String[] args) {
 		LocalDateTime ldt=LocalDateTime.now();
         System.out.println("TIME AND DATE  :  "+ldt);
+        System.out.println("updated project");
 	}
 
 }
